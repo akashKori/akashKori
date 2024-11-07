@@ -22,7 +22,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kapil0123" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/akash-kori-69217015/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kapil0123" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/akash-kori-69217015/" target="blank"></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -31,7 +31,3 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akashkori&show_icons=true&locale=en&layout=compact" alt="akashkori" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akashkori&show_icons=true&locale=en" alt="akashkori" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akashkori&" alt="akashkori" /></p>
